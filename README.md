@@ -1,8 +1,6 @@
 # -Tarea3
-1. Para la primera sección se encontraron las funciones de densidad marginales tanto para x como para y, estas se encuentran en el repositorio con los nombres F D marginal X y F D marginal de Y, a partir de se observo que se parecian a la gaussiana, por lo que se procedio a encontrar los parametros para las curvas de mejor ajuste, una vez hecho esto se obtuvieron las figuras mostradas en el repositorio con los nombres F D marginal X Ajustada y F D marginal de Y Ajustada.
-
+1. Para la primera sección se encontraron las funciones de densidad marginales tanto para x como para y, estas se encuentran en el repositorio con los nombres F D marginal X.PNG y F D marginal Y.PNG, a partir de se observo que se parecian a la gaussiana, por lo que se procedio a encontrar los parametros para las curvas de mejor ajuste, una vez hecho esto se obtuvieron las figuras mostradas en el repositorio con los nombres F D marginal X Ajustada.PNG y F D marginal de Y Ajustada.PNG
 2. En esta sección se nos pide cual es la expresión de la funciónque modela los datos de densidad la conjunta, esta expresión esta dada por lo siguiente:
-f_{X,Y}(x,y)=
-3. Correlación: 149,54281
-3. Covarianza: 0,06669156994254596 
-3. Coeficiente de correlación: 0,0033537726710180576 
+f_{X,Y}(x,y)=f_{X}(x)f_{Y}y lo que significa que la densidad conjunta de 2 variables aleatorias independientes va a ser la multiplicación de las probabilidades marginales de cada una de las variables.
+3. En la tercera sección se nos solicitan 3 datos, la correlación, la covarianza y el coeficiente de correlación, los resultados obtenidos fueron los siguientes : Correlación: 149,543; Covarianza: 0,0667 y Coeficiente de correlación: 0,003354. Estas tienen un significado, la correlación corresponde al grado de en el cual 2 variables estan linealmente asociadas; la covarianza indica el grado de variación conjunta de 2 variables aleatorias respecto a sus medias; y por ultimo el coeficiente de correlación indica una dependencia total entre las dos variables la cual es una relación directa, es decir si una aumenta la otra tambien lo hace en proporción de dicho coeficiente.
+4. En esta ultima sección se nos piden las gráficas de las funciones de densidad marginales, las cuales ya fueron mencionadas cuales son en el punto 1 y estas se encuentran en el repositorio, mientras que la grafica de la densidad conjunta se encuentra con el nombre Funcion de densidad conjunta.PNG la cual es una gráfica en 3D. 
