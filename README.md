@@ -1,4 +1,4 @@
-# -Tarea3
+# Tarea3
 1. Para la primera sección se encontraron las funciones de densidad marginales tanto para x como para y, estas se encuentran en el repositorio con los nombres F D marginal X.PNG y F D marginal Y.PNG, a partir de se observo que se parecian a la gaussiana, por lo que se procedio a encontrar los parametros para las curvas de mejor ajuste, una vez hecho esto se obtuvieron las figuras mostradas en el repositorio con los nombres F D marginal X Ajustada.PNG y F D marginal de Y Ajustada.PNG
 2. En esta sección se nos pide cual es la expresión de la funciónque modela los datos de densidad la conjunta, esta expresión esta dada por lo siguiente:
 f_{X,Y}(x,y)=f_{X}(x)f_{Y}y lo que significa que la densidad conjunta de 2 variables aleatorias independientes va a ser la multiplicación de las probabilidades marginales de cada una de las variables.
